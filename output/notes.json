@@ -1,0 +1,79 @@
+{
+  "notes": [
+    {
+      "time_start": 4.137931034482758,
+      "time_end": 4.59051724137931,
+      "pitch_value": 36
+    },
+    {
+      "time_start": 5.188577586206896,
+      "time_end": 5.549568965517241,
+      "pitch_value": 35
+    },
+    {
+      "time_start": 5.980603448275861,
+      "time_end": 7.2413793103448265,
+      "pitch_value": 31
+    },
+    {
+      "time_start": 8.281249999999998,
+      "time_end": 8.83081896551724,
+      "pitch_value": 36
+    },
+    {
+      "time_start": 9.288793103448274,
+      "time_end": 9.800646551724137,
+      "pitch_value": 35
+    },
+    {
+      "time_start": 10.096982758620689,
+      "time_end": 11.379310344827585,
+      "pitch_value": 29
+    },
+    {
+      "time_start": 12.413793103448274,
+      "time_end": 12.823275862068964,
+      "pitch_value": 36
+    },
+    {
+      "time_start": 13.464439655172413,
+      "time_end": 13.723060344827585,
+      "pitch_value": 35
+    },
+    {
+      "time_start": 13.83081896551724,
+      "time_end": 14.040948275862068,
+      "pitch_value": 35
+    },
+    {
+      "time_start": 14.49353448275862,
+      "time_end": 14.80603448275862,
+      "pitch_value": 31
+    },
+    {
+      "time_start": 15.544181034482756,
+      "time_end": 15.818965517241377,
+      "pitch_value": 29
+    },
+    {
+      "time_start": 15.878232758620687,
+      "time_end": 16.066810344827584,
+      "pitch_value": 29
+    },
+    {
+      "time_start": 16.540948275862068,
+      "time_end": 16.826508620689655,
+      "pitch_value": 28
+    },
+    {
+      "time_start": 16.95581896551724,
+      "time_end": 17.139008620689655,
+      "pitch_value": 31
+    },
+    {
+      "time_start": 17.343749999999996,
+      "time_end": 18.609913793103445,
+      "pitch_value": 35
+    }
+  ]
+}
